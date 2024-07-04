@@ -1,6 +1,8 @@
-# Life - A question from a recent homework assignment for my OS class
+# Life
 
-##### Question 4: The Game of Life in a Threaded World
+### A question from a recent homework assignment for my OS class
+
+###### Question 4: The Game of Life in a Threaded World
 
 Write a multithreaded Java program that simulates the "Game of Life." The simulation occurs on an M-by-N rectangular array of cells. Each cell has only two values: 0 and 1. Each cell has eight neighbors: up, down, left, right, and four diagonally. Cells on the four edges of the grid still have 8 neighbors… they just wrap around. 
 
@@ -36,7 +38,8 @@ The input data for your program will consist of a file with the values of M and 
 
 The first line of the file will be two integer values, the number of rows followed by the number of columns. 
 
-For example, 5 4
+For example,  
+5 4
 
 The following lines contain sequences of 0's and 1's for each row. For example,  
 0 0 1 0  
