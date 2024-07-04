@@ -38,11 +38,11 @@ The first line of the file will be two integer values, the number of rows follow
 
 For example, 5 4
 
-The following lines contain sequences of 0's and 1's for each row. For example,
-0 0 1 0
-1 1 1 1
-1 0 0 1
-0 0 0 1
+The following lines contain sequences of 0's and 1's for each row. For example,  
+0 0 1 0  
+1 1 1 1  
+1 0 0 1  
+0 0 0 1  
 1 1 1 1
 
 You may assume the files are formatted correctly. 
